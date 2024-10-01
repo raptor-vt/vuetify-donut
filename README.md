@@ -1,2 +1,3 @@
-# vuetify-donut
-Created with CodeSandbox
+# vuetify-codesandbox
+
+Vuetify template to use on CodeSandbox projects
